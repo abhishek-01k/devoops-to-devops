@@ -3,7 +3,6 @@ title: "Week 1: 12-Factor App & DevOps Basics"
 datePublished: Fri Jul 11 2025 05:24:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmcydg94p000602ie0npd1huh
 slug: week-1
-tags: devops, devops-journey, learninginpublic, developer-journey, kodekloud
 
 ---
 
