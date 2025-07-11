@@ -3,6 +3,7 @@ title: "Week 1: 12-Factor App & DevOps Basics"
 datePublished: Fri Jul 11 2025 05:24:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmcydg94p000602ie0npd1huh
 slug: week-1
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1752211792273/51bdefc9-7559-44e5-9141-5ce15176ba86.png
 
 ---
 
